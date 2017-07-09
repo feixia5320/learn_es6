@@ -1,0 +1,69 @@
+#elem {
+    color: #006;
+    background-color: #aaa;
+    font-size: 25px;
+    padding: 1em;
+    text-align: center;
+  }
+
+   #baiye {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
+
+  #bounce {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
+
+  #scale {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
+    #size {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
+
+   .switchClass {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+  }
+  .big {
+    width: 200px;
+    height: 200px;
+  }
+  .blue {
+    background-color: #00f;
+  }
+
+  #resizable {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+}
+
+ #selectable .ui-selecting {
+    background: #333;
+  }
+  #selectable .ui-selected {
+    background: #900;
+  }
+   .positionDiv {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: green;
+  }
+
+   .select2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    float: left;
+  }
